@@ -2,11 +2,11 @@
 
 Support Analyst in career transition
 
-:rocket:  Skills: Mobile Development (Android);
+:rocket:  Skills: Front-end Developer (ReactJs);
 
-:rainbow:  Currently studying: Kotlin and UX Design;
+:rainbow:  Currently studying: ReactJs and UX Design;
 
-:computer:  Tools: Kotlin, Android Studio, GitHub, Adobe XD/Figma;
+:computer:  Tools: VsCode, GitHub, Adobe XD/Figma;
 
 💌   Social networks: <p align="center">
     <a href="https://www.linkedin.com/in/viniciussantiago23/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
