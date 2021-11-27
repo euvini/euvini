@@ -4,7 +4,7 @@ Support Analyst in career transition
 
 :rocket:  Skills: Front-end Developer (ReactJs && React-Native);
 
-:rainbow:  Currently studying: ReactJs and UX Design;
+:rainbow:  Currently studying: React and UX Design;
 
 :computer:  Tools: VsCode, GitHub, Adobe XD/Figma;
 
