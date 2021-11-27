@@ -6,7 +6,7 @@ Support Analyst in career transition
 
 :rainbow:  Currently studying: React and UX Design;
 
-:computer:  Tools: VsCode, GitHub, Adobe XD/Figma;
+:computer:  Tools: VsCode, GitHub, Figma;
 
 💌   Social networks: <p align="center">
     <a href="https://www.linkedin.com/in/viniciussantiago23/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
