@@ -1,4 +1,4 @@
-# Hey, I'm Vinicius Santiago :wave::smiley:
+# Hey, I'm Vinicius :wave::smiley:
 
 Support Analyst in career transition
 
