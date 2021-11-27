@@ -2,7 +2,7 @@
 
 Support Analyst in career transition
 
-:rocket:  Skills: Front-end Developer (ReactJs);
+:rocket:  Skills: Front-end Developer (ReactJs && React-Native);
 
 :rainbow:  Currently studying: ReactJs and UX Design;
 
