@@ -1,6 +1,6 @@
 # Hey, I'm Vinicius :wave::smiley:
 
-Support Analyst in career transition
+React Native Developer
 
 :rocket:  Skills: Front-end Developer (ReactJs && React-Native);
 
