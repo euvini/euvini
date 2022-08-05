@@ -2,11 +2,11 @@
 
 React Native Developer
 
-:rocket:  Skills: Front-end Developer (ReactJs && React-Native);
+:rocket:  Skills: Front-end Developer (React-Native);
 
 :rainbow:  Currently studying: React and UX Design;
 
-:computer:  Tools: VsCode, GitHub, Figma;
+:computer:  Tools: VsCode, GitHub, Figma, Native Base, Typescript;
 
 💌   Social networks: <p align="center">
     <a href="https://www.linkedin.com/in/viniciussantiago23/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
