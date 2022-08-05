@@ -4,7 +4,7 @@ React Native Developer
 
 :rocket:  Skills: Front-end Developer (React-Native);
 
-:rainbow:  Currently studying: React and UX Design;
+:rainbow:  Currently studying: React Native with Typescript;
 
 :computer:  Tools: VsCode, GitHub, Figma, Native Base, Typescript;
 
