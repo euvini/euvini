@@ -2,7 +2,7 @@
 
 React Native Developer
 
-:rocket:  Skills: Front-end Developer (React-Native);
+:rocket:  Skills: Front-end Developer (ReactJs/React Native);
 
 :rainbow:  Currently studying: React Native with Typescript;
 
