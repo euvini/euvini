@@ -1,77 +1,37 @@
-# Hey, I'm Vinicius :wave::smiley:
+# Olá, eu sou o Vinicius :wave::smiley:
 
 ## Desenvolvedor Mobile / Desenvolvedor Frontend
 
 📧 viniciuseduardo@outlook.com  
-🌐 [GitHub](https://github.com/euvini)  
-🌐 [LinkedIn](https://www.linkedin.com/in/viniciussantiago23)  
-📞 +55 11 96048-1445  
+🌐 [LinkedIn](https://www.linkedin.com/in/viniciussantiago23)
 
 Sou Desenvolvedor Frontend Pleno com ampla experiência no desenvolvimento de aplicações Mobile e Web, utilizando tecnologias como React Native, NextJs e ReactJs. Atualmente, trabalho com NextJs e React Native, contribuindo para projetos de destaque. Tenho forte habilidade na integração com APIs Rest, trabalho colaborativo com times de design usando Figma e experiência em projetos na área da saúde.
 
 ### Habilidades
-- **Tecnologias:**
-  - HTML/CSS
-  - Javascript / Typescript
-  - React Native / ReactJs
-  - Redux / Zustand
-  - NextJs
-  - Tailwind CSS
-- **Ferramentas:**
-  - VsCode
-  - GitHub
-  - Figma
-  - Native Base
-  - Shadcn/UI
-- **Metodologias:**
-  - Scrum
-- **Idiomas:**
-  - Inglês (B2)
-  - Português (Nativo)
 
-### Interesses
-- Design
-- Desenvolvimento iOS
-- Café
-- Jogos
+| **Tecnologias**          | **Ferramentas**       | **Metodologias** | **Idiomas**         |
+|--------------------------|-----------------------|-------------------|---------------------|
+| HTML/CSS                 | VsCode                | Scrum             | Inglês (B2)         |
+| Javascript / Typescript  | GitHub                |                   | Português (Nativo)  |
+| React Native / ReactJs   | Figma                 |                   |                     |
+| Redux / Zustand          | Native Base           |                   |                     |
+| NextJs                   | Shadcn/UI             |                   |                     |
+| Tailwind CSS             |                       |                   |                     |
 
-### Experiência Profissional
 
-**Desenvolvedor Frontend Pleno**  
-*Matilha Estúdio - Remoto*  
-*Janeiro 2024 - Atual*
-- Desenvolvimento Mobile com React Native
-- Desenvolvimento Web com NextJs e React
-- Integração com APIs Rest
-- Interação com o time de designers utilizando Figma
-- Code review
-- Utilização de React Hooks, Axios, Git e Scrum
+# Hey, I'm Vinicius :wave::smiley:
 
-**Desenvolvedor de Software Pleno**  
-*Kognit - Remoto*  
-*Agosto 2022 - Janeiro 2024*
-- Desenvolvimento Mobile com React Native
-- Desenvolvimento Web com React
-- Criação de API com C# .Net e SQL Server
-- Code review
-- Utilização de React Hooks, Axios, Git e Scrum
+## Mobile Developer / Frontend Developer
 
-**Desenvolvedor de Software Júnior**  
-*Doctor 192 - Aplicativo de Telemedicina*  
-*Dezembro 2021 - Agosto 2022*
-- Desenvolvimento Mobile com React Native
-- Integração de API
-- Criação de API com Firebase Console e gerenciamento
+I am a Mid-level Frontend Developer with extensive experience in developing Mobile and Web applications using technologies such as React Native, NextJs, and ReactJs. Currently, I work with NextJs and React Native, contributing to high-profile projects. I have strong skills in integrating with REST APIs, collaborating with design teams using Figma, and experience in healthcare projects.
 
-### Formações e Certificações
-- **Desenvolvimento Web com Integração de IA** • Rocketseat  
-  - ReactJs, NodeJs e OpenAI Library
+### Skills
 
-- **UX/UI Designer** • Etec  
-  - Figma
-
-- **Bootcamp React** • Digital Innovation One  
-  - ReactJs e React Native
-
-- **Hiring Coders Program** • Gama Academy  
-  - Full Stack Development: ReactJs e NodeJs
+| **Technologies**         | **Tools**             | **Methodologies** | **Languages**       |
+|--------------------------|-----------------------|-------------------|---------------------|
+| HTML/CSS                 | VsCode                | Scrum             | English (B2)        |
+| Javascript / Typescript  | GitHub                |                   | Portuguese (Native) |
+| React Native / ReactJs   | Figma                 |                   |                     |
+| Redux / Zustand          | Native Base           |                   |                     |
+| NextJs                   | Shadcn/UI             |                   |                     |
+| Tailwind CSS             |                       |                   |                     |
